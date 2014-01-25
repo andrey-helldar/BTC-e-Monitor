@@ -29,51 +29,51 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.ListViewItem listViewItem49 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem13 = new System.Windows.Forms.ListViewItem(new string[] {
             "tyjtyjtyj",
             "erera",
             "ge4g3"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem50 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem14 = new System.Windows.Forms.ListViewItem(new string[] {
             "tyhjtyh",
             "wefwef",
             "dfvdfvdfv"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem51 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem15 = new System.Windows.Forms.ListViewItem(new string[] {
             "strgrtgrg",
             "rg geg egr",
             "ergergerg"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem52 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem16 = new System.Windows.Forms.ListViewItem(new string[] {
             "rtgrthrth",
             "ergaeg erg ",
             "gegerg"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem53 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem17 = new System.Windows.Forms.ListViewItem(new string[] {
             "5656776",
             "wefwef",
             "wefwef"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem54 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem18 = new System.Windows.Forms.ListViewItem(new string[] {
             "12233",
             "23r23r",
             "wefwefwef"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem55 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem19 = new System.Windows.Forms.ListViewItem(new string[] {
             "tyjtyjtyj",
             "erera",
             "ge4g3"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem56 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem20 = new System.Windows.Forms.ListViewItem(new string[] {
             "tyhjtyh",
             "wefwef",
             "dfvdfvdfv"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem57 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem21 = new System.Windows.Forms.ListViewItem(new string[] {
             "strgrtgrg",
             "rg geg egr",
             "ergergerg"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem58 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem22 = new System.Windows.Forms.ListViewItem(new string[] {
             "rtgrthrth",
             "ergaeg erg ",
             "gegerg"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem59 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem23 = new System.Windows.Forms.ListViewItem(new string[] {
             "5656776",
             "wefwef",
             "wefwef"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem60 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem24 = new System.Windows.Forms.ListViewItem(new string[] {
             "12233",
             "23r23r",
             "wefwefwef"}, -1);
@@ -101,6 +101,8 @@
             this.toolStripStatusLabel4 = new System.Windows.Forms.ToolStripStatusLabel();
             this.label1 = new System.Windows.Forms.Label();
             this.lLastUpdate = new System.Windows.Forms.Label();
+            this.bwGetData = new System.ComponentModel.BackgroundWorker();
+            this.tRefresh = new System.Windows.Forms.Timer(this.components);
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.menuStrip1.SuspendLayout();
@@ -126,12 +128,12 @@
             this.columnHeader7});
             this.lvMy.FullRowSelect = true;
             this.lvMy.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem49,
-            listViewItem50,
-            listViewItem51,
-            listViewItem52,
-            listViewItem53,
-            listViewItem54});
+            listViewItem13,
+            listViewItem14,
+            listViewItem15,
+            listViewItem16,
+            listViewItem17,
+            listViewItem18});
             this.lvMy.Location = new System.Drawing.Point(6, 19);
             this.lvMy.MultiSelect = false;
             this.lvMy.Name = "lvMy";
@@ -175,12 +177,12 @@
             this.columnHeader6});
             this.listView1.FullRowSelect = true;
             this.listView1.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem55,
-            listViewItem56,
-            listViewItem57,
-            listViewItem58,
-            listViewItem59,
-            listViewItem60});
+            listViewItem19,
+            listViewItem20,
+            listViewItem21,
+            listViewItem22,
+            listViewItem23,
+            listViewItem24});
             this.listView1.Location = new System.Drawing.Point(6, 19);
             this.listView1.MultiSelect = false;
             this.listView1.Name = "listView1";
@@ -206,7 +208,7 @@
             // 
             // notifyIcon1
             // 
-            this.notifyIcon1.Text = "notifyIcon1";
+            this.notifyIcon1.Text = "!Hell: BTC-e Monitor";
             this.notifyIcon1.Visible = true;
             // 
             // menuStrip1
@@ -376,6 +378,8 @@
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel4;
         private System.Windows.Forms.Label lLastUpdate;
         private System.Windows.Forms.Label label1;
+        private System.ComponentModel.BackgroundWorker bwGetData;
+        private System.Windows.Forms.Timer tRefresh;
     }
 }
 
