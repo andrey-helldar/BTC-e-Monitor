@@ -5,3 +5,6 @@ f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранен
 f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC-e Monitor.csproj.GenerateResource.Cache
 f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC-e Monitor.exe
 f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC-e Monitor.pdb
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\bin\Debug\Newtonsoft.Json.dll
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC-e Monitor.csprojResolveAssemblyReference.cache
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\bin\Debug\BTC-e Monitor.exe.config
