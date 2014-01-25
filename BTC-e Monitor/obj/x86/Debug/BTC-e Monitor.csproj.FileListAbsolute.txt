@@ -1,0 +1,7 @@
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\bin\Debug\BTC-e Monitor.exe
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\bin\Debug\BTC-e Monitor.pdb
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC_e_Monitor.fIndex.resources
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC_e_Monitor.Properties.Resources.resources
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC-e Monitor.csproj.GenerateResource.Cache
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC-e Monitor.exe
+f:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\GIT_c#\BTC-e Monitor\BTC-e Monitor\obj\x86\Debug\BTC-e Monitor.pdb
