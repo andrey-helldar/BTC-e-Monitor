@@ -1,6 +1,0 @@
-F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\BtceApi-master\BtceApi\bin\Debug\BtceApi.dll
-F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\BtceApi-master\BtceApi\bin\Debug\BtceApi.pdb
-F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\BtceApi-master\BtceApi\bin\Debug\Newtonsoft.Json.dll
-F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\BtceApi-master\BtceApi\obj\X64\Debug\ResolveAssemblyReference.cache
-F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\BtceApi-master\BtceApi\obj\X64\Debug\BtceApi.dll
-F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\BtceApi-master\BtceApi\obj\X64\Debug\BtceApi.pdb

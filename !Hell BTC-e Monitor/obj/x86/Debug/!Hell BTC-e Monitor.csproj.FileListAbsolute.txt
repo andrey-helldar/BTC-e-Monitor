@@ -1,0 +1,9 @@
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\obj\x86\Debug\_Hell_BTC_e_Monitor.Properties.Resources.resources
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\obj\x86\Debug\!Hell BTC-e Monitor.csproj.GenerateResource.Cache
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\obj\x86\Debug\!Hell BTC-e Monitor.csprojResolveAssemblyReference.cache
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\bin\Debug\!Hell BTC-e Monitor.exe
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\bin\Debug\!Hell BTC-e Monitor.pdb
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\bin\Debug\Newtonsoft.Json.dll
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\obj\x86\Debug\!Hell BTC-e Monitor.exe
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\obj\x86\Debug\!Hell BTC-e Monitor.pdb
+F:\ВАЖНЫЕ ДАННЫЕ\!!Важные документы\!Сохранения программ\Visual Studio C#\!Hell BTC-e Monitor\!Hell BTC-e Monitor\obj\x86\Debug\_Hell_BTC_e_Monitor.fIndex.resources
